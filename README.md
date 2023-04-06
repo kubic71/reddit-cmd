@@ -1,5 +1,12 @@
-# Reddit cmd
+# Reddit Programmer humor cmd
 
+## How to install
+```
+pip install -r requirements.txt
+```
+
+
+## How to get some humor
 
 ```bash
 $ python reddit.py
